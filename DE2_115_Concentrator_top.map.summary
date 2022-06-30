@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jun 23 07:54:14 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : DE2_115_Concentrator_top
+Top-level Entity Name : DE2_115_Concentrator_top
+Family : Cyclone IV E
+Total logic elements : 3,123
+    Total combinational functions : 2,701
+    Dedicated logic registers : 1,652
+Total registers : 1652
+Total pins : 165
+Total virtual pins : 0
+Total memory bits : 539,808
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

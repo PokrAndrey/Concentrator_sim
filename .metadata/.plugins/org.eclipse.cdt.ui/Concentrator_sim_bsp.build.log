@@ -1,0 +1,6 @@
+11:01:20 **** Clean-only build of configuration Nios II for project Concentrator_sim_bsp ****
+make clean 
+[BSP clean complete]
+
+11:01:20 Build Finished (took 360ms)
+

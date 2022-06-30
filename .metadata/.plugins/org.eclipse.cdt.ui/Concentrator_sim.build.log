@@ -1,0 +1,9 @@
+12:36:17 **** Incremental Build of configuration Nios II for project Concentrator_sim ****
+make all 
+Info: Building ../Concentrator_sim_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Concentrator_sim_bsp/
+[BSP build complete]
+[Concentrator_sim build complete]
+
+12:36:18 Build Finished (took 945ms)
+
